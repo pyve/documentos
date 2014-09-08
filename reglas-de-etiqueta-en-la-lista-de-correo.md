@@ -29,5 +29,5 @@ sentido la presente guía no es más que un resumen de estas buenas prácticas d
    "Python", "Hola" son muy poco claros y es posible que no capten el interés de los participantes
    de la lista.
  * Coloque el prefijo Oferta de Trabajo u [Oferta de Trabajo] para los mensajes relacionados con
-   ofertas ofertas.
+   ofertas de trabajo o empleo.
  * Coloque el prefijo OT u [OT] a los mensajes OffTopic.
