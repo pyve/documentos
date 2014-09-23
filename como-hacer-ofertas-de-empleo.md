@@ -16,15 +16,18 @@ recomendaciones:
 4. Describa las condiciones de contratación. Ejemplo: Teletrabajo,
    presencial, cargo disponible, contratación por proyecto, tareas para freelancer,
    etc.
-5. Si es posible indique el monto de su oferta o al menos un rango. 
+5. En caso de no ser Teletrabajo, por favor indicar la ubicación del
+   mismo. Tenga en cuenta que en la lista participan personas de todos
+   los rincones del país, incluso del exterior.
+6. Si es posible indique el monto de su oferta o al menos un rango. 
    En caso de mantenerlo en reserva indique que será discutido directamente con los
    interesados, así evitará preguntas.
-6. Si su oferta ha sido publicada en algún sitio de empleos será de mucho interés
+7. Si su oferta ha sido publicada en algún sitio de empleos será de mucho interés
    que comparta esos enlaces.
-7. De ser posible incluya también el área en la cual se desarrollará la oferta,
+8. De ser posible incluya también el área en la cual se desarrollará la oferta,
    esto debido a que posiblemente algún aspirante pueda mostrar más interés en
    una oferta relacionada con su área de experiencia.
-8. Aunque parezca obvio, incluya información de contacto de la persona que va a
+9. Aunque parezca obvio, incluya información de contacto de la persona que va a
    recibir los resúmenes curriculares. Si tiene algún requisito adicional por
    favor inclúyalo acá (certificados de salud, vehiculo propio, etc).
 
