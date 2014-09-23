@@ -28,4 +28,4 @@ recomendaciones:
    recibir los resúmenes curriculares. Si tiene algún requisito adicional por
    favor inclúyalo acá (certificados de salud, vehiculo propio, etc).
 
-Gracias por su consideración y mucho éxito con su proceso de reclutamiento.
+Gracias por su consideración y mucho éxito en su proceso de reclutamiento.
