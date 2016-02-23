@@ -10,7 +10,7 @@ _(Cargo que ocupa)_, _(Institución)_
 
 Ante todo un cordial saludo, sirva la presente para hacer de su conocimiento nuestro proyecto
 y en particular el evento PyDay (o Día Python). Python de Venezuela es una iniciativa sin
-fines de lucro que se constituyó como una fundación para la promover, crear, fomentar, asesorar
+fines de lucro que se constituyó como una fundación para promover, crear, fomentar, asesorar
 y auspiciar las tecnologías relacionadas al lenguaje de programación Python en nuestro país.
 Así mismo, promovemos el encuentro entre los profesionales y estudiantes venezolanos para 
 compartir experiencias, impulsar proyectos y generar sinergias que permitan explorar 
