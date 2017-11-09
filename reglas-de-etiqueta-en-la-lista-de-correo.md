@@ -31,3 +31,8 @@ sentido la presente guía no es más que un resumen de estas buenas prácticas d
  * Coloque el prefijo Oferta de Trabajo u [Oferta de Trabajo] para los mensajes relacionados con
    ofertas de trabajo o empleo.
  * Coloque el prefijo OT u [OT] a los mensajes OffTopic.
+ 
+## Para ofertas de empleo
+
+ * Si vas a enviar a la lista una oferta de empleo, te recomendamos revisar el documento: https://github.com/pyve/documentos/blob/master/como-hacer-ofertas-de-empleo.md
+ * Si estás interesado en una oferta de empleo publicada en la lista, te recomendamos revisar el siguiente documento: https://github.com/pyve/documentos/blob/master/como-responder-una-oferta-de-empleo.md
